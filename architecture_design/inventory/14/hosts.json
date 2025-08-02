@@ -42,10 +42,7 @@
 
         "hosts": {
 
-            "ubuntu1": {
-               
-                "ansible_port" : 1234
-            }, 
+            "ubuntu1": null,
 
             "ubuntu2": null,
 
